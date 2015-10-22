@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HttpRequest.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HttpRequest.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HttpResponse.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HttpResponse.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/server.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/server.h" isTestSource="false" />

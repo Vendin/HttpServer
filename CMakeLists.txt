@@ -3,5 +3,5 @@ project(HttpServer)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES main.cpp server.cpp server.h HttpRequest.cpp HttpRequest.h)
+set(SOURCE_FILES main.cpp server.cpp server.h HttpRequest.cpp HttpRequest.h HttpResponse.cpp HttpResponse.h)
 add_executable(HttpServer ${SOURCE_FILES})
