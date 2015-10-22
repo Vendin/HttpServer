@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/server.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/server.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/utils.h" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
