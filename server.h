@@ -8,7 +8,7 @@
 
 #define INDEX_FILE "index.html"
 #define SERVER_NAME "SimpleHttpServer"
-#define SERVER_VERSION "0.1.0"
+#define SERVER_VERSION "1.0"
 #define FILE_NOT_FOUND -1
 
 class Server {

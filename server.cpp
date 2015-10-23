@@ -12,7 +12,7 @@
 #include <fcntl.h>
 #include <cstring>
 
-std::string Server::rootDirectory = "/home/av/github/SimpleHttpServer/test";
+std::string Server::rootDirectory = "/home/av/github/HttpServer/httptest";
 
 void Server::read(bufferevent *bev, void *ctx) {
     evbuffer *input = bufferevent_get_input(bev);
